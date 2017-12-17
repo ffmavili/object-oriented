@@ -1,2 +1,1 @@
-# object-oriented
-çeşitli örnekler
+tkinter example
